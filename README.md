@@ -7,5 +7,5 @@ A demo to show how to install Xposed and enable Xposed based module automaticall
 Content
 ------------
 
-- AutomaticXposed: The application implemented to automate the all the Xposed procedure
+- AutomaticXposed: The application implemented to automate all the Xposed related procedure
 - XposedInstaller: The modified [XposedInstaller](https://github.com/rovo89/XposedInstaller)(Added a **InstallService**)
