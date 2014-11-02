@@ -14,4 +14,4 @@ How to use
 -----------
 Install and launcher AutomaticXposed application, the app will first install XposedInstaller and then automatically enable the module itself and reboot(you need to wait about 30s after Xposed installed).
 
-The installed XposedInstaller has been modified( refer to the XposedInstaller.zip), so remember to uninstall the official XposedInstaller before launcher AutomaticXposed.
+The installed XposedInstaller has been modified( refer to the XposedInstaller.zip), so remember to **uninstall the official XposedInstaller** before launcher AutomaticXposed.
